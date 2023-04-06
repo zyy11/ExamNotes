@@ -9,3 +9,5 @@
 * [第5章 生产要素市场理论](part1/di-5-zhang-sheng-chan-yao-su-shi-chang-li-lun.md)
 * [第6章 市场失灵和政府的干预](part1/di-6-zhang-shi-chang-shi-ling-he-zheng-fu-de-gan-yu.md)
 * [第8章 经济增长和经济发展理论](part1/di-8-zhang-jing-ji-zeng-chang-he-jing-ji-fa-zhan-li-lun.md)
+* [第9章](part1/di-9-zhang.md)
+* [第10章 国际贸易理论和政策](part1/di-10-zhang-guo-ji-mao-yi-li-lun-he-zheng-ce.md)
